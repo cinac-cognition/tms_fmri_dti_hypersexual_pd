@@ -1,0 +1,4 @@
+group,subj_id,area of end region 1(mm^2),area of end region 2(mm^2),branch volume(mm^3),curl,diameter(mm),elongation,gfa,irregularity,irregularity of end region 1,irregularity of end region 2,iso,mean length(mm),nqa,number of tracts,qa,radius of end region 1(mm),radius of end region 2(mm),span(mm),total area of end regions(mm^2),total radius of end regions(mm),total surface area(mm^2),trunk volume(mm^3),volume(mm^3)
+0,sub-HC03,13.0,12.0,763.0,5.6856599999999995,2.32291,77.5068,0.0,3.4790300000000003,110.40700000000001,152.217,0.0,180.041,0.0,19.0,0.0,21.3745,24.1128,31.6658,25.0,45.4872,4571.0,0.0,763.0
+0,sub-HC06,1.0,1.0,192.0,9.07477,1.24664,126.179,0.0,3.21075,0.0,0.0,0.0,157.3,0.0,1.0,0.0,0.0,0.0,17.3338,2.0,0.0,1978.0,0.0,192.0
+0,sub-HC11,21.0,16.0,1053.0,12.9445,3.16472,42.2993,0.0,4.15952,6.04293,13.5321,0.0,133.865,0.0,33.0,0.0,6.355630000000001,8.3017,10.3415,37.0,14.6573,5536.0,0.0,1053.0

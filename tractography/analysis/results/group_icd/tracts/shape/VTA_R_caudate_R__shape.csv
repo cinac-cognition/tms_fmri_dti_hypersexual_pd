@@ -1,0 +1,5 @@
+group,subj_id,area of end region 1(mm^2),area of end region 2(mm^2),branch volume(mm^3),curl,diameter(mm),elongation,gfa,irregularity,irregularity of end region 1,irregularity of end region 2,iso,mean length(mm),nqa,number of tracts,qa,radius of end region 1(mm),radius of end region 2(mm),span(mm),total area of end regions(mm^2),total radius of end regions(mm),total surface area(mm^2),trunk volume(mm^3),volume(mm^3)
+0,sub-ICDPD04,1.0,1.0,200.0,6.45294,1.2081899999999999,144.39,0.0,3.20925,0.0,0.0,0.0,174.451,0.0,1.0,0.0,0.0,0.0,27.0343,2.0,0.0,2125.0,0.0,200.0
+0,sub-ICDPD12,7.0,7.0,333.0,9.15112,2.02926,50.7392,0.0,3.4491300000000003,26.0484,32.1835,0.0,102.963,0.0,12.0,0.0,7.6184199999999995,8.4682,11.2514,14.0,16.0866,2264.0,0.0,333.0
+0,sub-ICDPD14,13.0,5.0,728.0,40.9418,2.38672,68.1765,0.0,3.06619,1.52738,3.08154,0.0,162.718,0.0,27.0,0.0,2.51403,2.2145900000000003,3.97439,18.0,4.728619999999999,3741.0,0.0,728.0
+0,sub-ICDPD15,34.0,20.0,804.0,6.70887,2.94256,40.178000000000004,0.0,3.2069900000000002,11.9644,17.8463,0.0,118.226,0.0,99.0,0.0,11.3791,10.659,17.6224,54.0,22.0381,3505.0,0.0,804.0
